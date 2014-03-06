@@ -1,4 +1,4 @@
-64360525614b1def6a933e4af036722f *DESCRIPTION
+1d4ee3b697fe0e7b0c3cfcad162c957f *DESCRIPTION
 cbecfb70db3140bb2994cace0cc9e4da *NAMESPACE
 2ea3db55bb0bd4150e6d1838b969ad04 *R/COR_AUX.R
 f10b28bf3497fab16617260cc2dca1e3 *R/COR_MAIN.R
@@ -28,6 +28,7 @@ ca9ad789f1fe0b641a5adb2bbf57f34b *R/svyPVquantile.R
 d3d6c86103a081db1dbe6efc93daf40a *R/svyby_SD.R
 cddb02176a1d2fd9c148b23a1119e649 *R/weigh.SD.R
 c655c7192ea50fdd5908583cbc92062d *data/svy_example1.RData
+01cc0f0776612cefb3d1b506b3d43e91 *inst/CITATION
 c655c7192ea50fdd5908583cbc92062d *inst/tests/svy_example1.RData
 50068a0e24a69dbf05ba98050df727d5 *inst/tests/test_svyPVpm.RData
 deca71b0fa2e24f393d876de0868ae31 *inst/tests/tests_mr.R
@@ -36,7 +37,7 @@ dd92a071988548d17d562bd739226db6 *man/svyPVcor.Rd
 3cdbbd93bfcabfc9c66aeb3f2369021e *man/svyPVeta.Rd
 99f4999e49183aeaa1d6ad72cc6d5de4 *man/svyPVglm.Rd
 c754667bfd839995e4b9816e136f359c *man/svyPVlevel.Rd
-12e665d5ccf705a0c920868eafef4ffb *man/svyPVpack-package.Rd
+aeeef93c3b6595a558f28d8be8f9675a *man/svyPVpack-package.Rd
 7f64932326465489ad71696960933b76 *man/svyPVpm.Rd
 a782b3f9f467186b854226ff0559e3b3 *man/svyPVprob.Rd
 aec07dffdb4ac1b489285947484ba2fa *man/svyPVquantile.Rd
